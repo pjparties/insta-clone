@@ -13,6 +13,10 @@
     list-style: none;
 
     li {
+      &:hover{
+        cursor: pointer;
+        color: $link-color
+      }
       &:after {
         content: "\2022";
         margin: 0 0.25em 0 0.25em;

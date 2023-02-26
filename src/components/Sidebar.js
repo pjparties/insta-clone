@@ -10,8 +10,8 @@ function Sidebar() {
     <Sticky topOffset={-80}>
       <div className="sidebar">
         <Profile
-          username="aleks.popovic"
-          caption="Aleksandar Popović"
+          username="parthhjuneja"
+          caption="Parth Juneja"
           urlText="Switch"
           iconSize="big"
           image={image}
